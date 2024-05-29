@@ -1,0 +1,13 @@
+{
+    "name": "eldade.bondo/instagram_serio",
+    "autoload": {
+        "psr-4": {
+            "Webin\\Anucios\\": "src/"
+        }
+    },
+    "require": {
+        "bramus/router": "^1.6",
+        "vlucas/phpdotenv": "^5.5"
+    }
+    
+}

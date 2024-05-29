@@ -1,0 +1,7 @@
+.RelatiroCenter {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

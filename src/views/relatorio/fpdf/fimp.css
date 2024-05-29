@@ -1,0 +1,105 @@
+body{ 
+  margin:0px 0px 0px;
+  padding:0px 0px 0px
+}
+.tema,.temaA{  
+  border:2px solid black 
+}
+.temaA{
+  text-align:center;
+  background-color:gray;
+  font-size:42;
+  color:black;
+}
+.tema{
+  text-align:center;
+  border:1px solid black ;
+  color:black;
+  background-color:gray;
+  font-size:26;
+}
+#l1{
+  font-size:23;
+  text-align:center;
+}
+#sep{
+  padding-top:10;
+  word-break:break-word  
+}
+#moeda{
+  float:left;
+  padding-left:10
+}
+#data{
+  float:right;
+  padding-right:10
+}
+#lb{
+  border:3px dotted black;
+  border-left:transparent;
+  border-right:transparent;
+  border-bottom:transparent;
+}
+#cl1{
+  font-size:21;
+}
+#cl1\#1{
+  text-align:center;
+}
+#cdt{
+  text-align:left;
+  word-spacing:22;
+  padding-left:10
+}
+#pgmt{
+  font-size:23;
+  padding-left:10
+}
+.pct{
+  float:right;
+  padding-right:13
+}
+#pctnome{
+  text-align:center;
+  font-size:22;
+  text-transform:uppercase;
+}
+#modo{
+  font-size:20;
+  font-weight:bolder;
+  padding-left:10
+}
+.conta{
+  border:1px solid;
+  border-top:dotted;
+  border-left-color:transparent;
+  border-right-color:transparent;
+}
+.op{
+  font-size:23;
+}
+#pnome{
+  float:right;
+  padding-right:10
+}
+
+#onp{
+  font-size:23;
+  word-spacing:20
+}
+
+#ended{
+ text-align:center;
+  border:1px solid black
+}
+
+#ended td{
+  border:1px solid black;
+}
+#enpn{
+  font-size:12;
+  text-align:center;
+}
+.op{
+  padding-left:10;
+}
